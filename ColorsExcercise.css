@@ -1,0 +1,14 @@
+
+Second Page
+h1 {
+  background-color:purple;  border-style: solid; border-color: fuchsia; border-width: 5px;
+}
+p {
+    background-color:indigo;  border-style: dashed; border-color: paleturquoise; border-width: 2px; padding: 15px;;
+}
+div {
+    background-color:violet;  border-style: double; border-color: navy border-width: 10px; margin: 20px;;
+}
+ul {
+    background-color: midnightblue;  border-style: dotted; border-color: blueviolet; border-width: 3px;
+}
